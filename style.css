@@ -313,7 +313,7 @@ nav ul li a {
     max-width: 550px;
 }
 .banner-right {
-    width: 440px;
+    max-width: 440px;
     padding-left: 20px;
 }
 
@@ -343,6 +343,7 @@ nav ul li a {
         margin: 20px auto 0;
     }
 }
+
 
 
 /* =========================================
